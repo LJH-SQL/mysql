@@ -1,1 +1,4 @@
 111p~134p
+모델 다이어그램 => File  - New model
+모델링 파일 데이터베이스에 적용시키기 => File  - OpenModel - 'modelDB.mwb' or 'ShopDB.mwb' 열기 ,  Database  - Forward Engineer
+데이터베이스를 이용해 모델 다이어그램 작성 => Database - Reverse Engineer  - [Select the schemas you want to include:]단계에서 db선택 후 진행
